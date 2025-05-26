@@ -1,4 +1,4 @@
-[model_results_outliers_capped (1).csv](https://github.com/user-attachments/files/20433924/model_results_outliers_capped.1.csv)# Air Quality Prediction in India
+# Air Quality Prediction in India
 
 Forecasting the Air Quality Index (AQI) using regression models on Indian air‐quality data. This project covers data ingestion, cleaning, EDA, outlier handling (removal vs. capping), feature scaling, model training (6 regressors + stacking), and evaluation.
 

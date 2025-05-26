@@ -9,8 +9,7 @@ Forecasting the Air Quality Index (AQI) using regression models on Indian air‐
 - **Source:** Kaggle – “Air Quality Data in India” by rohanrao  
 - **Download:** via `kagglehub` or manually from  
   `new_dataset1.csv`  
-- **Key columns:**  
-  - `Date` (YYYY-MM-DD)  
+ 
   - Pollutants/features:  
     `PM2.5`, `PM10`, `NO`, `NO2`, `NOx`, `NH3`, `CO`, `SO2`, `O3`  
   - Target: `AQI` (and optional `AQI_Bucket`)

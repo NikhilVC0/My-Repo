@@ -60,11 +60,13 @@ All models are trained via `train_evaluate(df, features, target='AQI')`, returni
 
 ## 🚀 Results
 
-- **Best with outliers removed:**  
-  `{{Model}}` → R² = {{r2_removed}}, MAE = {{mae_removed}}, RMSE = {{rmse_removed}}
-- **Best with outliers capped:**  
-  `{{Model}}` → R² = {{r2_capped}}, MAE = {{mae_capped}}, RMSE = {{rmse_capped}}
-- **Overall best:** typically **XGBoost** or **Stacked Ensemble**.
+-  # Best Model with Outliers Removed:
+    Model: MLP Regressor, R2: 0.9130317702390841, MAE: 14.691832402059116, RMSE: 21.26248336557077
+
+- # Best Model with Outliers Capped:
+    Model: MLP Regressor, R2: 0.9222354774661881, MAE: 15.293082377227059, RMSE: 22.17956756100499
+
+ *** Overall, the best model is MLP Regressor with outliers capped, achieving R2: 0.9222354774661881, MAE: 15.293082377227059, RMSE: 22.17956756100499
 
 *  *
 

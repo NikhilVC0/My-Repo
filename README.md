@@ -77,3 +77,10 @@ All models are trained via `train_evaluate(df, features, target='AQI')`, returni
 git clone https://github.com/yourusername/air-quality-prediction.git
 cd air-quality-prediction
 pip install -r requirements.txt
+
+
+
+### Above Project is Improved Model of a Research Paper titled "PREDICTION OF AIR POLLUTION USING 
+SUPPORT  VECTOR MACHINE "    DOI No:     
+JETIR November 2024, Volume 11, Issue 11                                                    
+www.jetir.org (ISSN-2349-5162) 
